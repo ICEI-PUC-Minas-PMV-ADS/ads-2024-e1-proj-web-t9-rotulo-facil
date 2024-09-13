@@ -9,11 +9,9 @@ Diante desse cenário, há uma oportunidade significativa de promover maior clar
 a população sobre os malefícios de alguns componentes para a saúde. Essa conscientização é essencial não apenas para proteger a saúde dos consumidores, mas também para pressionar empresas e governo a adotar práticas mais transparentes e responsáveis..
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O projeto planeja esclarecer os ingredientes presentes em produtos comercializados e o impacto desses ingredientes na saúde dos usuários, proporcionando-lhes liberdade de decisão e consciência. Como cita a filósofa Marilena Chauí [3] ”A democracia é a atividade criadora dos cidadãos e aparece em sua essência quando existe igualdade, liberdade e participação.”
+O projeto visa oferecer esses pilares à sociedade, permitindo que os cidadãos possam construir e debater quais produtos se sentem seguros em utilizar, sem que isso prejudique a saúde. Como Ralph Waldo Emerson afirmou: ”A primeira riqueza é a saúde.” Prover informações claras e acessíveis é essencial para garantir que os indivíduos possam fazer escolhas informadas sobre o que consomem.
+Desenvolver este projeto visa fornecer informações detalhadas sobre esses ingredientes e seus rótulos, para proteger a saúde pública, promovendo uma sociedade mais consciente e saudável.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
