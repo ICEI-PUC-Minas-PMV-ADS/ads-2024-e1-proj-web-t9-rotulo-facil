@@ -22,6 +22,7 @@ Desenvolver este projeto visa fornecer informações detalhadas sobre esses ingr
 
 O objetivo geral deste projeto é desenvolver um software que sirva como uma ponte facilitadora entre empresa e consumidor, explicando os rótulos de
 forma clara e fácil de entender.
+
 • Analisar a Complexidade dos Rótulos de Produtos: Investigar os aspectos técnicos e linguísticos que dificultam a compreensão dos rótulos pelos consumidores.
 
 • Avaliar a Transparência das Informações Fornecidas pelas Empresas:
