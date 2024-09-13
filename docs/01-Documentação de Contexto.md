@@ -20,9 +20,24 @@ Desenvolver este projeto visa fornecer informações detalhadas sobre esses ingr
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é desenvolver um software que sirva como
+uma ponte facilitadora entre empresa e consumidor, explicando os rótulos de
+forma clara e fácil de entender.
+• Analisar a Complexidade dos Rótulos de Produtos: Investigar
+os aspectos técnicos e linguísticos que dificultam a compreensão dos
+rótulos pelos consumidores.
+• Avaliar a Transparência das Informações Fornecidas pelas Empresas:
+Examinar a clareza e a precisão das informações presentes nos
+rótulos e como essas informações são comunicadas ao consumidor.
+• Propor Estratégias para Melhorar a Compreensão dos Rótulos:
+Desenvolver recomendações para tornar os rótulos mais compreensíveis
+e promover a educação do consumidor, visando reduzir riscos à saúde
+e promover escolhas informadas.
+• Promover a Conscientização Pública: Criar e implementar estratégias
+para aumentar a conscientização e a educação dos consumidores
+sobre a importância de entender os rótulos dos produtos, ajudando
+a prevenir problemas de saúde associados ao consumo inadequado.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
