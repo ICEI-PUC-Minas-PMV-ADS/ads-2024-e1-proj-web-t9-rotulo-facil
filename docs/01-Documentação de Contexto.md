@@ -1,6 +1,12 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Grande parte da sociedade brasileira não tem consciência sobre os produtos que consome [1]. Para saber o que está adquirindo, o consumidor precisa
+entender o que está escrito nos rótulos das embalagens. Uma pesquisa realizada pelo IDEC [2] (Instituto de Defesa de Consumidores) aponta que cerca
+de 40% dos entrevistados têm dificuldade de compreender as informações nos rótulos.
+No entanto, essa falta de compreensão não ocorre por ignorância humana, mas sim por omissão das empresas e pela falta de incentivo do governo para
+com seus cidadãos. A dificuldade em entender os rótulos das embalagens de cosméticos traz sérios problemas à saúde, pois tudo o que é utilizado nos produtos está descrito nos rótulos.
+Diante desse cenário, há uma oportunidade significativa de promover maior clareza sobre os ingredientes descritos nos rótulos, conscientizando
+a população sobre os malefícios de alguns componentes para a saúde. Essa conscientização é essencial não apenas para proteger a saúde dos consumidores, mas também para pressionar empresas e governo a adotar práticas mais transparentes e responsáveis..
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
