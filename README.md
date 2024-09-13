@@ -6,7 +6,7 @@
 
 `2º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos consumidores buscarem informações sobre os igredientes presentes nos rotulos dos produtos.
 
 ## Integrantes
 
