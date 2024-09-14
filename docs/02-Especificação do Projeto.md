@@ -1,9 +1,9 @@
 # Especificações do Projeto
 
 ##Perfis de Usuários
--------------------------------------------
+--------------------------------------------
 | Perfil 01: Consumidor Geral              |
--------------------------------------------
+--------------------------------------------
 | Descrição:                               |
 | Pessoa comum, de qualquer idade ou       |
 | origem, que deseja entender melhor os    |
@@ -12,7 +12,7 @@
 | melhorar sua saúde e bem-estar, ou está  |
 | preocupada com os efeitos de certos      |
 | ingredientes.                            |
--------------------------------------------
+--------------------------------------------
 | Necessidades:                            |
 | • Acesso a informações claras e de fácil |
 |   compreensão sobre os ingredientes e    |
@@ -24,8 +24,7 @@
 | • Orientação sobre como escolher         |
 |   produtos mais seguros e adequados às   |
 |   suas necessidades de saúde.            |
--------------------------------------------
-
+--------------------------------------------
 -------------------------------------------
 | Perfil 02: Pessoas com Condições de      |
 | Saúde Específicas                        |
@@ -37,7 +36,6 @@
 | • Encontrar os ingredientes que causam   |
 |   alergia de forma clara e objetiva.     |
 -------------------------------------------
-
 -------------------------------------------
 | Perfil 03: Pais e Responsáveis por       |
 | Crianças                                 |
