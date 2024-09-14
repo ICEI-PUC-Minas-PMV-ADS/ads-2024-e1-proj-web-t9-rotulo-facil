@@ -14,18 +14,19 @@ Necessidades:   • Acesso a informações claras e de fácil compreensão sobre
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Perfil 02: Pessoas com Condições de Saúde Específicas
 -------------------------------------------------------------------------------------------------------------------------------------------------
-•	Descrição:      • Alérgicos.
+Descrição:  • Alérgicos.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-•	Necessidades:   •	Encontrar os ingredientes que causam alergia de forma clara e objetiva.
+Necessidades:   • Encontrar os ingredientes que causam alergia de forma clara e objetiva.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Perfil 03: Pais e Responsáveis por Crianças
 -------------------------------------------------------------------------------------------------------------------------------------------------
-•	Descrição: Adultos que compram produtos para seus filhos e querem garantir que estão oferecendo itens seguros e saudáveis. Estão preocupados com os efeitos de substâncias potencialmente nocivas em produtos de uso diário.
-•	Necessidades:
-•	Informações detalhadas e específicas sobre os ingredientes dos produtos que possam ser prejudiciais para crianças.
-•	Alerta automático sobre ingredientes que devem ser evitados em produtos infantis.
-•	Recomendações de produtos alternativos mais seguros e adequados para crianças.
+Descrição:    • Adultos que compram produtos para seus filhos e querem garantir que estão oferecendo itens seguros e saudáveis. Estão 
+                        preocupados com os efeitos de substâncias potencialmente nocivas em produtos de uso diário.
+Necessidades:
+	              • Informações detalhadas e específicas sobre os ingredientes dos produtos que possam ser prejudiciais para crianças.
+	               Alerta automático sobre ingredientes que devem ser evitados em produtos infantis.
+	              • Recomendações de produtos alternativos mais seguros e adequados para crianças.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
