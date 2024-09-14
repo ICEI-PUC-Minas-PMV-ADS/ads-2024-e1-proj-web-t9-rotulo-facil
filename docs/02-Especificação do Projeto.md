@@ -1,63 +1,30 @@
 # Especificações do Projeto
 
 ##Perfis de Usuários
---------------------------------------------
-| Perfil 01: Consumidor Geral              |
---------------------------------------------
-| Descrição:                               |
-| Pessoa comum, de qualquer idade ou       |
-| origem, que deseja entender melhor os    |
-| produtos que compra e consome            |
-| regularmente. Pode estar buscando        |
-| melhorar sua saúde e bem-estar, ou está  |
-| preocupada com os efeitos de certos      |
-| ingredientes.                            |
---------------------------------------------
-| Necessidades:                            |
-| • Acesso a informações claras e de fácil |
-|   compreensão sobre os ingredientes e    |
-|   composições químicas presentes nos     |
-|   rótulos dos produtos.                  |
-| • Ferramentas que permitam identificar   |
-|   rapidamente os possíveis riscos à      |
-|   saúde associados a certos produtos.    |
-| • Orientação sobre como escolher         |
-|   produtos mais seguros e adequados às   |
-|   suas necessidades de saúde.            |
---------------------------------------------
--------------------------------------------
-| Perfil 02: Pessoas com Condições de      |
-| Saúde Específicas                        |
--------------------------------------------
-| Descrição:                               |
-| Alérgicos.                               |
--------------------------------------------
-| Necessidades:                            |
-| • Encontrar os ingredientes que causam   |
-|   alergia de forma clara e objetiva.     |
--------------------------------------------
--------------------------------------------
-| Perfil 03: Pais e Responsáveis por       |
-| Crianças                                 |
--------------------------------------------
-| Descrição:                               |
-| Adultos que compram produtos para seus   |
-| filhos e querem garantir que estão       |
-| oferecendo itens seguros e saudáveis.    |
-| Estão preocupados com os efeitos de      |
-| substâncias potencialmente nocivas em    |
-| produtos de uso diário.                  |
--------------------------------------------
-| Necessidades:                            |
-| • Informações detalhadas e específicas   |
-|   sobre os ingredientes dos produtos que |
-|   possam ser prejudiciais para crianças. |
-| • Alerta automático sobre ingredientes   |
-|   que devem ser evitados em produtos     |
-|   infantis.                              |
-| • Recomendações de produtos alternativos |
-|   mais seguros e adequados para crianças.|
--------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Perfil 01: Consumidor Geral
+-------------------------------------------------------------------------------------------------------------------------------------------------
+•	Descrição: Pessoa comum, de qualquer idade ou origem, que deseja entender melhor os produtos que compra e consome regularmente. Pode estar buscando melhorar sua saúde e bem-estar, ou está preocupada com os efeitos de certos ingredientes.
+•	Necessidades:
+•	Acesso a informações claras e de fácil compreensão sobre os ingredientes e composições químicas presentes nos rótulos dos produtos.
+•	Ferramentas que permitam identificar rapidamente os possíveis riscos à saúde associados a certos produtos.
+•	Orientação sobre como escolher produtos mais seguros e adequados às suas necessidades de saúde.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Perfil 02: Pessoas com Condições de Saúde Específicas
+-------------------------------------------------------------------------------------------------------------------------------------------------
+•	Descrição: Alérgicos.
+•	Necessidades:
+•	Encontrar os ingredientes que causam alergia de forma clara e objetiva.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Perfil 03: Pais e Responsáveis por Crianças
+-------------------------------------------------------------------------------------------------------------------------------------------------
+•	Descrição: Adultos que compram produtos para seus filhos e querem garantir que estão oferecendo itens seguros e saudáveis. Estão preocupados com os efeitos de substâncias potencialmente nocivas em produtos de uso diário.
+•	Necessidades:
+•	Informações detalhadas e específicas sobre os ingredientes dos produtos que possam ser prejudiciais para crianças.
+•	Alerta automático sobre ingredientes que devem ser evitados em produtos infantis.
+•	Recomendações de produtos alternativos mais seguros e adequados para crianças.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Personas
 
