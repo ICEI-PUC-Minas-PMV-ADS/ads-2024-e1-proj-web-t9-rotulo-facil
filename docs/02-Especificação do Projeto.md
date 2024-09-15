@@ -52,9 +52,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| consumidor         |Entender Rotulós de maneira mais consistente | Fazer escolhas mais seguras para minha saúde |
-|   Pessoa com condição de saúde específicas    | Informações claras e precisas sobre o rótulo | Evitar reações adversas |
-
+| Consumidor         |Entender Rotulós de maneira mais consistente | Fazer escolhas mais seguras para minha saúde |
+| Pessoa com condição de saúde específicas    | Informações claras e precisas sobre o rótulo | Evitar reações adversas |
+| Pais e Responsáveis por Crianças | Entender de maneira clara e consistente o rótulos e os produtos são seguros para crianças | Manter a segurança  e alimentação adequada às crianças. Evitar produtos com substâncias potencialmente nocivas eencontrar alternativas mais saudáveis. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
 As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
