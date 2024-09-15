@@ -1,5 +1,27 @@
 
 # Metodologia
+## Gerenciamento do Projeto
+
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
+“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos membros do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiente favorável para crítica às ideias e não às pessoas.”
+
+## Divisão de papéis
+
+Desta forma, a equipe é organizada da seguinte maneira:
+
+• Scrum Master: Davi Bicalho
+• Proprietária do produto: Louise Dias
+• Equipe de Desenvolvimento: Igor Gomes, Kaio Rocha, Marcos Takamatsu
+• Equipe de Design: Andryws Pedro
+
+## Processo
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas:
+
+• Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto estão incluídas nesta lista.
+• To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.
+• Em andamento: lista das tarefas iniciadas.
+• Feito: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
