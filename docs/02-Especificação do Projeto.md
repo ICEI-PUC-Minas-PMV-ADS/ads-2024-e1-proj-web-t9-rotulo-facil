@@ -52,8 +52,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|usuario do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|   administrador    | Alterar permissões                 | Permitir que possam administrar contas |
+| consumidor         |Entender Rotulós de maneira mais consistente | Fazer escolhas mais seguras para minha saúde |
+|   Pessoa com condição de saúde específicas    | Informações claras e precisas sobre o rótulo | Evitar reações adversas |
 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
