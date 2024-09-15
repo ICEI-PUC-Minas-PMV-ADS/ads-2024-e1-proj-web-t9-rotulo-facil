@@ -5,14 +5,6 @@
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
 “visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos membros do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiente favorável para crítica às ideias e não às pessoas.”
 
-## Divisão de papéis
-
-Desta forma, a equipe é organizada da seguinte maneira:
-
-• Scrum Master: Davi Bicalho
-• Proprietária do produto: Louise Dias
-• Equipe de Desenvolvimento: Igor Gomes, Kaio Rocha, Marcos Takamatsu
-• Equipe de Design: Andryws Pedro
 
 ## Processo
 
@@ -67,13 +59,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+- Scrum Master: Davi Bicalho;
+- Product Owner: Louise Dias;
+- Equipe de Desenvolvimento: Igor Gomes, Kaio Rocha, Marcos Takamatsu;
+- Equipe de Design: Andryws Pedro.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
