@@ -76,14 +76,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | RF-13 | A aplicação deve permitir que o usuário avalie produtos. | Baixa |
 | RF-14 | A aplicação deve permitir que o usuário escaneie o código de barras. | Alta |
 | RF-15 | A aplicação deve permitir que o usuário tire uma foto do produto e a IA mostre as informações. | Baixa |
+
 **Prioridade Alta/Média/Baixa
 
 ## Requisitos não funcionais
 | ID | Descriçao | prioridade |
+| ---| --------- | ---------- |
 | RNF-01 | A aplicação deve ser publicada em um ambiente acessível público na Internet. | Alta |
 | RNF-02 | A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos adequadamente. | Alta |
 | RNF-03 | A aplicação deve ter uma interface amigável e intuitiva. | Média |
 | RNF-04 | A aplicação deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox, Microsoft Edge e Opera. | Alta |
+
 **Prioridade Alta/Média/Baixa
 
 
