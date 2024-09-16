@@ -56,40 +56,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Pessoa com condição de saúde específicas    | Informações claras e precisas sobre o rótulo | Evitar reações adversas |
 | Pais e Responsáveis por Crianças | Entender de maneira clara e consistente o rótulos e os produtos são seguros para crianças | Manter a segurança  e alimentação adequada às crianças. Evitar produtos com substâncias potencialmente nocivas eencontrar alternativas mais saudáveis. |
 
-#Requisitos 
-
-##Requisitos funcionais
-| ID | Descriçao | prioridade |
-| ---| --------- | ---------- |
-| RF-01 | A aplicação deve permitir ao usuário cadastrar uma conta. | Alta |
-| RF-02 | A aplicação deve permitir ao usuário fazer o login da sua conta. | Alta |
-| RF-03 | A aplicação deve permitir ao usuário fazer o cadastro do produto. | Baixa |
-| RF-04 | A aplicação deve permitir ao usuário disponibilizar informações sobre os ingredientes. | Alta |
-| RF-05 | A aplicação deve permitir buscas por produtos específicos. | Média |
-| RF-06 | A aplicação deve apresentar alertas automáticos para ingredientes nocivos. | Alta |
-| RF-07 | A aplicação deve permitir ao usuário visualizar as informações sobre o produto. | Alta |
-| RF-08 | A aplicação deve exibir a composição química detalhada dos produtos (saber mais). | Média |
-| RF-09 | A aplicação deve fornecer recomendações de produtos alternativos. | Baixa |
-| RF-10 | A aplicação deve permitir ao usuário favoritar ingredientes ou produtos. | Média |
-| RF-11 | A aplicação deve permitir que o usuário informe possíveis alergias e identificar ingredientes prejudiciais. | Baixa |
-| RF-12 | A aplicação deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login. | Média |
-| RF-13 | A aplicação deve permitir que o usuário avalie produtos. | Baixa |
-| RF-14 | A aplicação deve permitir que o usuário escaneie o código de barras. | Alta |
-| RF-15 | A aplicação deve permitir que o usuário tire uma foto do produto e a IA mostre as informações. | Baixa |
-
-**Prioridade Alta/Média/Baixa
-
-## Requisitos não funcionais
-| ID | Descriçao | prioridade |
-| ---| --------- | ---------- |
-| RNF-01 | A aplicação deve ser publicada em um ambiente acessível público na Internet. | Alta |
-| RNF-02 | A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos adequadamente. | Alta |
-| RNF-03 | A aplicação deve ter uma interface amigável e intuitiva. | Média |
-| RNF-04 | A aplicação deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox, Microsoft Edge e Opera. | Alta |
-
-**Prioridade Alta/Média/Baixa
-
-
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
 As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -137,17 +103,37 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID | Descriçao | prioridade |
+| ---| --------- | ---------- |
+| RF-01 | A aplicação deve permitir ao usuário cadastrar uma conta. | Alta |
+| RF-02 | A aplicação deve permitir ao usuário fazer o login da sua conta. | Alta |
+| RF-03 | A aplicação deve permitir ao usuário fazer o cadastro do produto. | Baixa |
+| RF-04 | A aplicação deve permitir ao usuário disponibilizar informações sobre os ingredientes. | Alta |
+| RF-05 | A aplicação deve permitir buscas por produtos específicos. | Média |
+| RF-06 | A aplicação deve apresentar alertas automáticos para ingredientes nocivos. | Alta |
+| RF-07 | A aplicação deve permitir ao usuário visualizar as informações sobre o produto. | Alta |
+| RF-08 | A aplicação deve exibir a composição química detalhada dos produtos (saber mais). | Média |
+| RF-09 | A aplicação deve fornecer recomendações de produtos alternativos. | Baixa |
+| RF-10 | A aplicação deve permitir ao usuário favoritar ingredientes ou produtos. | Média |
+| RF-11 | A aplicação deve permitir que o usuário informe possíveis alergias e identificar ingredientes prejudiciais. | Baixa |
+| RF-12 | A aplicação deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login. | Média |
+| RF-13 | A aplicação deve permitir que o usuário avalie produtos. | Baixa |
+| RF-14 | A aplicação deve permitir que o usuário escaneie o código de barras. | Alta |
+| RF-15 | A aplicação deve permitir que o usuário tire uma foto do produto e a IA mostre as informações. | Baixa |
+
+**Prioridade Alta/Média/Baixa
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+| ID     | Descrição do Requisito  | Prioridade |
+|--------|-------------------------|------------|
+| RNF-001 | O sistema deve ser responsivo para rodar em dispositivos móveis. | Alta |
+| RNF-002 | Deve processar requisições do usuário em no máximo 3 segundos. | Baixa |
+| RNF-003 | A aplicação deve ser publicada em um ambiente acessível ao público na Internet. | Alta |
+| RNF-004 | A aplicação deve ter uma interface amigável e intuitiva. | Média |
+| RNF-005 | A aplicação deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox, Microsoft Edge e Opera. | Alta |
+
+**Prioridade Alta/Média/Baixa
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
