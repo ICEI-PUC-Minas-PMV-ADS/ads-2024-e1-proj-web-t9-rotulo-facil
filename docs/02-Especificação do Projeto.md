@@ -99,7 +99,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-12 | A aplicação deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login. | Média |
 | RF-13 | A aplicação deve permitir que o usuário avalie produtos. | Baixa |
 | RF-14 | A aplicação deve permitir que o usuário escaneie o código de barras. | Alta |
-| RF-15 | A aplicação deve permitir que o usuário tire uma foto do produto e a IA mostre as informações. | Baixa |
 
 **Prioridade Alta/Média/Baixa
 
