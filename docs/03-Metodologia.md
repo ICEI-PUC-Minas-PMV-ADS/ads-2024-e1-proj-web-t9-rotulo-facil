@@ -5,6 +5,9 @@
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
 “visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos membros do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiente favorável para crítica às ideias e não às pessoas.”
 
+Foram definidas reuniões três vezes por semana de curtas durações para alinhamento e discussões entre os membros da equipe. 
+
+<!-- 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
@@ -44,8 +47,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 >  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
-## Gerenciamento de Projeto
+-->
 
 ### Divisão de Papéis
 
@@ -54,12 +56,12 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 - Product Owner: Louise Dias;
 - Equipe de Desenvolvimento: Igor Gomes, Kaio Rocha, Marcos Takamatsu;
 - Equipe de Design: Andryws Pedro.
-
+<!--
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 > - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
-
+-->
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas:
@@ -68,7 +70,13 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.
 - Em andamento: lista das tarefas iniciadas.
 - Feito: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
+- 
+O quadro kanban do grupo no GitHub apresentado, no estado atual, na figura abaixo:
 
+![Quadro Kanban](img/kanban01.png)
+
+
+<!--
 > **Links Úteis**:
 > - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
@@ -76,19 +84,20 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
-
+-->
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
+- Editor de código: [Visual Studio Code](https://code.visualstudio.com/)
+- Ferramentas de comunicação: [Teams](https://teams.microsoft.com/v2/?clientexperience=t2)
 - Ferramentas de desenho de tela (_wireframing_)
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Figma.
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+> **Possíveis Ferramentas que auxiliarão no gerenciamento**:
+> - [Figma](https://www.figma.com/design/jXvNRbbO6cEgDtNFxk6BQX/Untitled?node-id=0-1&m=dev&t=vk7YpPLukqMeA7q0-1)
+> <!--- [Slack](https://slack.com/)-->
+> - [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-e1-proj-web-t9-rotulo-facil.git)

@@ -81,9 +81,9 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
-### Requisitos Funcionais
+#### Requisitos Funcionais
 
-| ID | Descriçao | prioridade |
+| ID | Descriçao | Prioridade |
 | ---| --------- | ---------- |
 | RF-01 | A aplicação deve permitir ao usuário cadastrar uma conta. | Alta |
 | RF-02 | A aplicação deve permitir ao usuário fazer o login da sua conta. | Alta |
@@ -103,7 +103,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 **Prioridade Alta/Média/Baixa
 
-### Requisitos não Funcionais
+#### Requisitos não Funcionais
 
 | ID     | Descrição do Requisito  | Prioridade |
 |--------|-------------------------|------------|
