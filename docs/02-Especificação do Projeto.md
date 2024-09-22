@@ -49,17 +49,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 | Consumidor         |Entender Rotulós de maneira mais consistente | Fazer escolhas mais seguras para minha saúde |
 | Pessoa com condição de saúde específicas    | Informações claras e precisas sobre o rótulo | Evitar reações adversas |
-| Pais e Responsáveis por Crianças | Entender de maneira clara e consistente o rótulos e os produtos são seguros para crianças | Manter a segurança  e alimentação adequada às crianças. Evitar produtos com substâncias potencialmente nocivas eencontrar alternativas mais saudáveis. |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
-As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+| Pais e Responsáveis por Crianças | Entender de maneira clara e consistente o rótulos e os produtos são seguros para crianças | Garantir a segurança de crianças em relação a componentes. Evitar produtos com substâncias potencialmente nocivas e encontrar alternativas mais saudáveis. |
 
 ## Modelagem do Processo de Negócio 
 
