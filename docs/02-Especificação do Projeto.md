@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-##Perfis de Usuários
+## Perfis de Usuários
 | **Perfil**                              | **Descrição**                                                                                                                                                            | **Necessidades**                                                                                                                                                                                |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Perfil 01: Consumidor Geral**          | • Pessoa comum, de qualquer idade ou origem, que deseja entender melhor os produtos que compra e consome regularmente. <br> • Pode estar buscando melhorar sua saúde e bem-estar, ou está preocupada com os efeitos de certos ingredientes. | • Acesso a informações claras e de fácil compreensão sobre os ingredientes e composições químicas presentes nos rótulos dos produtos. <br> • Ferramentas que permitam identificar rapidamente os possíveis riscos à saúde. <br> • Orientação sobre como escolher produtos mais seguros e adequados às suas necessidades de saúde. |
