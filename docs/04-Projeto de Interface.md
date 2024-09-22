@@ -4,7 +4,7 @@
 O fluxograma apresentado mostra a interação do usuário com o sistema.
 ![download (1)](https://github.com/user-attachments/assets/0ffc1e39-1939-4037-b65e-441602a5e89f)
 
-## Wireframes
+## Prototipo de baixa fidelidade
 ## Tela - Home page
 A tela Home Page apresenta a barra de pesquisa e botões que levam para às páginas de inicio, sobre, produtos, ajuda, cadastro, login.
 ![Frame 1](https://github.com/user-attachments/assets/a2547490-2d48-4102-8f4e-ed86f4b764b4)
