@@ -54,14 +54,9 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
  A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Davi Bicalho;
 - Product Owner: Louise Dias;
-- Equipe de Desenvolvimento: Igor Gomes, Kaio Rocha, Marcos Takamatsu;
-- Equipe de Design: Andryws Pedro.
-<!--
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
--->
+- Equipe de Desenvolvimento: Igor Gomes, Kaio Rocha, Marcos Takamatsu, Davi Bicalho, Louise Dias;
+- Equipe de Design: Andryws Pedro, Marcos Takamatsu.
+
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas:
@@ -70,7 +65,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.
 - Em andamento: lista das tarefas iniciadas.
 - Feito: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
-- 
+  
 O quadro kanban do grupo no GitHub apresentado, no estado atual, na figura abaixo:
 
 ![Quadro Kanban](img/kanban01.png)
@@ -85,9 +80,34 @@ O quadro kanban do grupo no GitHub apresentado, no estado atual, na figura abaix
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 -->
+
+## Etiquetas
+As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+
+- Bug (Erro no código)
+- Desenvolvimento (Development)
+- Documentação (Documentation)
+- Gerência de Projetos (Project Management)
+- Infraestrutura (Infrastructure)
+- Testes (Tests)
+
+![164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1](https://github.com/user-attachments/assets/377f634a-c3fc-42be-abb5-834a84021adc)
+
+Figura 3 - Tela do esquema de cores e categorias
+
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+
+| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
+|-------------------------------------|------------------------------------|----------------------------------------|
+| Repositório de código fonte         | GitHub                             | http://....                            |
+| Documentos do projeto               | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-e1-proj-web-t9-rotulo-facil |
+| Projeto de Interface 1                | Figma                              | https://www.figma.com/design/jXvNRbbO6cEgDtNFxk6BQX/Untitled?node-id=0-1&m=dev&t=vk7YpPLukqMeA7q0-1 |
+| Projeto de Interface 2              | Figma                              | https://www.figma.com/design/jXvNRbbO6cEgDtNFxk6BQX/Projeto-ADS-Eixo-01?node-id=23-3&node-type=canvas&t=9gWOJM64A9LgBVjX-0 | 
+| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Hospedagem                          | GitHub Pages                       | http://....                            |
+
 
 - Editor de código: [Visual Studio Code](https://code.visualstudio.com/)
 - Ferramentas de comunicação: [Teams](https://teams.microsoft.com/v2/?clientexperience=t2)
