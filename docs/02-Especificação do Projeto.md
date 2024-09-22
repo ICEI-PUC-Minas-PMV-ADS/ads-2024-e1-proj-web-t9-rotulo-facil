@@ -11,10 +11,35 @@
 
 
 ## Personas
+# Personas - Rótulo Fácil
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+## Persona 1: João Silva (Consumidor Geral)
+**Nome**: João Silva  
+**Idade**: 35 anos  
+**Ocupação**: Gerente de vendas  
+**Cenário de Vida**: João vive em uma grande cidade e trabalha como gerente de vendas. Ele se preocupa com a aparência e uso de produtos de cuidados pessoais, mas muitas vezes tem dificuldade em entender os rótulos dos cosméticos, especialmente em relação a ingredientes que podem afetar sua pele
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+**Como o *Rótulo Fácil* o ajuda**: O *Rotulo Fácil* oferece uma plataforma que simplifica a leitura dos rótulos de produtos, destacando ingredientes prejudiciais. João pode acessar a ferramenta em seu smartphone enquanto faz compras, tornando mais rápido e prático tomar decisões informadas sobre os cosmeticos que compra.
+
+## Persona 2 : Ana Martins (Pessoa com Condições de Saúde Específicas)
+**Nome**: Ana Martins   
+**Idade**: 42 anos  
+**Ocupação**: Professora de Educação Física  
+**Cenário de Vida**: Ana é uma mulher ativa e preocupada com sua saúde e bem-estar. A prática regular de atividades físicas faz parte da sua rotina e exige cuidados especiais com a pele. No entanto, Ana possui uma pele sensível e propensa a alergias, o que dificulta a escolha de produtos de beleza adequados. A grande variedade de produtos disponíveis no mercado, aliada à complexidade dos rótulos, torna a busca por cosméticos seguros e eficazes um verdadeiro desafio para ela.
+
+**Como o *Rótulo Fácil* a ajuda**:
+O *Rótulo Fácil* pode fornecer informações detalhadas sobre os ingredientes de cada produto, facilitando a identificação de produtos seguros para pessoas com peles sensíveis e alergias. A dificuldade em encontrar produtos que atendam a todos esses critérios a deixa sobrecarregada e ansiosa em relação à saúde da pele do seu filho.
+
+
+
+## Persona 3: Mariana Silva (Mãe de Criança)
+**Nome**: Mariana Silva  
+**Idade**: 30 anos  
+**Ocupação**: Enfermeira  
+**Cenário de Vida**: Mariana é mãe de um menino de 5 anos, preocupada com a saúde e o bem-estar do filho, ela busca ativamente por produtos de higiene e beleza, seguros e naturais, livres de químicos nocivos. Além disso, Mariana tem um forte senso de responsabilidade ambiental e procura por marcas que utilizem embalagens sustentáveis e ingredientes provenientes da agricultura orgânica. 
+
+**Como o *Rótulo Fácil* a ajuda**:
+O *Rótulo Fácil* pode fornecer informações claras e detalhadas sobre os componentes de cada produto, permitindo que Mariana identifique facilmente produtos livres de químicos nocivos e com ingredientes naturais e orgânicos.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
