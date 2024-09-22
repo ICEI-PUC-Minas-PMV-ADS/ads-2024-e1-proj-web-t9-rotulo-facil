@@ -2,7 +2,7 @@
 # Projeto de Interface
 ## Userflow
 O fluxograma apresentado mostra a interação do usuário com o sistema.
-![download (1)](https://github.com/user-attachments/assets/0ffc1e39-1939-4037-b65e-441602a5e89f)
+https://www.figma.com/proto/jXvNRbbO6cEgDtNFxk6BQX?node-id=52-1598&locale=en
 
 ## Prototipo de baixa fidelidade
 ## Tela - Home page
