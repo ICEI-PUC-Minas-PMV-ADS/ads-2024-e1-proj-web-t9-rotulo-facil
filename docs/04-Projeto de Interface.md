@@ -7,7 +7,7 @@ https://www.figma.com/proto/jXvNRbbO6cEgDtNFxk6BQX?node-id=52-1598&locale=en
 ## Prototipo de baixa fidelidade
 ## Tela - Home page
 A tela Home Page apresenta a barra de pesquisa e botões que levam para às páginas de inicio, sobre, produtos, ajuda, cadastro, login.
-![Frame 1](https://github.com/user-attachments/assets/a2547490-2d48-4102-8f4e-ed86f4b764b4)
+telas_figma/Tela_1_Inicial.png
 
 Figuira 1 - Tela Home page
 ## Tela - Sobre
