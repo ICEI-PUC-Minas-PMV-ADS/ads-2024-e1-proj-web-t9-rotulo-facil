@@ -70,6 +70,7 @@ O quadro kanban do grupo no GitHub apresentado, no estado atual, na figura abaix
 
 ![Quadro Kanban](img/kanban01.png)
 
+Figura 1 - Quadro Kanban do GitHub.
 
 <!--
 > **Links Úteis**:
@@ -93,7 +94,7 @@ As tarefas são, ainda, etiquetadas em função da natureza da atividade e segue
 
 ![164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1](https://github.com/user-attachments/assets/377f634a-c3fc-42be-abb5-834a84021adc)
 
-Figura 3 - Tela do esquema de cores e categorias
+Figura 2 - Tela do esquema de cores e categorias
 
 ### Ferramentas
 
@@ -101,12 +102,9 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-e1-proj-web-t9-rotulo-facil |
 | Projeto de Interface 1                | Figma                              | https://www.figma.com/design/jXvNRbbO6cEgDtNFxk6BQX/Untitled?node-id=0-1&m=dev&t=vk7YpPLukqMeA7q0-1 |
 | Projeto de Interface 2              | Figma                              | https://www.figma.com/design/jXvNRbbO6cEgDtNFxk6BQX/Projeto-ADS-Eixo-01?node-id=23-3&node-type=canvas&t=9gWOJM64A9LgBVjX-0 | 
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
 - Editor de código: [Visual Studio Code](https://code.visualstudio.com/)
