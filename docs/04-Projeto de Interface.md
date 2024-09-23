@@ -15,25 +15,25 @@ Figuira 1 - Tela Home page
 
 ## Tela - Login
 A tela Login apresenta os inputs necessários para acessar a aplicação e a opção de cadastro. Com menu superior, contendo a logo e as páginas de Produtos, Favoritos, Ingredientes, Meu Perfil, Ajuda e Login.
-![Login](/docs/img/telas_figma/Tela_3_Login.png)
+![Login](/docs/img/telas_figma/Tela_2_Login.png)
 
 Figura 2 - Tela Login
 
 ## Tela - Cadastro
 A tela Cadastro apresenta os inputs necessários para o cadastro de novos usuários. Com menu superior, contendo a logo e as páginas de Produtos, Favoritos, Ingredientes, Meu Perfil, Ajuda e Login.
-![Cadastro](/docs/img/telas_figma/Tela_4_Cadastro.png)
+![Cadastro](/docs/img/telas_figma/Tela_3_Cadastro.png)
 
 Figura 3 - Tela Cadastro
 
 ## Tela - Perfil
 A tela Perfil irá conter dados importantes (a serem definidos) sobre o usuário. Com menu superior, contendo a logo e as páginas de Produtos, Favoritos, Ingredientes, Meu Perfil, Ajuda e Login.
-![Perfil](/docs/img/telas_figma/Tela_5_Perfil.png)
+![Perfil](/docs/img/telas_figma/Tela_4_Perfil.png)
 
 Figura 4 - Tela Perfil
 
 ## Tela - Jornada de Produtos
 A tela Primeira tela da Jornada de Produtos, apresenta CTA "Comece Aqui" para seguir para a tela de Produtos. Com menu superior, contendo a logo e as páginas de Produtos, Favoritos, Ingredientes, Meu Perfil, Ajuda e Login.
-![Jornada de Produtos](/docs/img/telas_figma/Tela_2_Inicio%20Jornada.png)
+![Jornada de Produtos](/docs/img/telas_figma/Tela_5_Inicio%20Jornada.png)
 
 Figura 5 - Tela Jornada de Produtos
 ## Tela - Produto
@@ -71,4 +71,5 @@ A tela Ajuda apresenta formulário para contato. Com menu superior, contendo a l
 ![Ajuda](/docs/img/telas_figma/Tela_8_Ajuda.png)
 
 Figura 8 - Tela Ajuda
+
 
